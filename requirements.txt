@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+yfinance
+langchain
+langgraph
+langchain-groq
+python-dotenv
+reportlab
