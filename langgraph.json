@@ -1,0 +1,5 @@
+{
+    "graphs": {
+      "portfolio-consultant": "./agent.py:portfolio_agent"
+    }
+  }
