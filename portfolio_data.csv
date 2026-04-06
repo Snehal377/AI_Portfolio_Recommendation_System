@@ -1,0 +1,9 @@
+Asset,Category,Risk_Level,Expected_Return,Liquidity
+Apple Stock,Stock,High,12,High
+Tesla Stock,Stock,High,15,High
+S&P 500 ETF,ETF,Medium,10,High
+Government Bonds,Bond,Low,5,Medium
+Gold,Commodity,Medium,7,Medium
+Real Estate,Property,Medium,9,Low
+Bitcoin,Crypto,Very High,20,High
+Cash,Savings,Low,2,High
